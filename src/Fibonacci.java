@@ -1,9 +1,14 @@
 import java.util.Scanner;
+/// This class finds a n'th term of fibonacci series
+///
+///
+/// Input int n
+/// Output n'th term of fibonacci series
 public class Fibonacci {
-    public static long Fibonacci(int n) {
+    public static long fibonacci(int n) {
         if (n == 0) return 0;
         if (n == 1) return 1;
-        else return Fibonacci(n - 1) + Fibonacci(n - 2);
+        else return fibonacci(n - 1) + fibonacci(n - 2);
     }
 
 
@@ -11,7 +16,7 @@ public class Fibonacci {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
 
-        System.out.println(Fibonacci(n));
+        System.out.println(fibonacci(n));
     }
 
 

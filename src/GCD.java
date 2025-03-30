@@ -1,5 +1,9 @@
 import java.util.Scanner;
-
+/// This class finds a greatest common divider
+///
+///
+/// Input int n
+/// Output greatest common divider between two integers
 public class GCD {
     public static int gcd(int a, int b) {
         if (b == 0) return a;

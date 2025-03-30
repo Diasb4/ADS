@@ -1,4 +1,9 @@
 import java.util.Scanner;
+/// This class makes a reversed version of inputted array
+///
+///
+/// Input array arr and int index
+/// Output reversed array
 public class Reverse {
     public static void reverse(int[] arr, int index) {
         if (index < 0) return;

@@ -1,5 +1,9 @@
 import java.util.Scanner;
-
+/// This class finds if a number is prime or not
+///
+///
+/// Input int n
+/// Output boolean value
 public class Prime {
     public static boolean isPrime(int n) {
         if (n < 2) return false;
