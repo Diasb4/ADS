@@ -2,6 +2,7 @@ import java.util.Scanner;
 /// This class finds a minimum number in an array
 ///
 ///
+///
 /// Input int n and array of numbers
 /// Output minimal number in an array
 public class Main {

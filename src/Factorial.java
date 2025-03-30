@@ -2,6 +2,7 @@ import java.util.Scanner;
 /// This class finds a n'th term of factorial
 ///
 ///
+///
 /// Input int n
 /// Output n'th term of factorial
 public class Factorial {

@@ -2,6 +2,7 @@ import java.util.Scanner;
 /// This class finds an average of array
 ///
 ///
+///
 /// Input int n and array arr
 /// Output average value
 public class problem {

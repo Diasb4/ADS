@@ -2,6 +2,7 @@ import java.util.Scanner;
 /// This class finds a n'th term of number a
 ///
 ///
+///
 /// Input int a and int n
 /// Output n'th term of a
 public class Power {

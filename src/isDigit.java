@@ -2,6 +2,7 @@ import java.util.Scanner;
 /// This class finds is there is a digit in a array
 ///
 ///
+///
 /// Input string s
 /// Output boolean value
 public class isDigit {

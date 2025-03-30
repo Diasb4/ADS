@@ -2,6 +2,7 @@ import java.util.Scanner;
 /// This class finds if a number is prime or not
 ///
 ///
+///
 /// Input int n
 /// Output boolean value
 public class Prime {

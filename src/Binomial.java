@@ -2,6 +2,7 @@ import java.util.Scanner;
 /// This class finds a binomial coefficient
 ///
 ///
+///
 /// Input int n
 /// Output Coefficient of binomial
 public class Binomial {
